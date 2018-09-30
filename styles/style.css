@@ -151,7 +151,7 @@ div.buttons input:hover {
   font-size: small;
 }
 
-.footer-bar a:link, .footer-bar a.left:visited, .footer-bar a:hover, .footer-bar a:active{
+.footer-bar a:link, .footer-bar a:visited, .footer-bar a:hover, .footer-bar a:active{
   color: rgba(0,0,0,.54);
   text-decoration: none;
 }
